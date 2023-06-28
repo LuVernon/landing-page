@@ -33,7 +33,6 @@ ul{
     display: flex;
 }
 
-
 ul,.average-text {
     font-size: 18px;
     color: rgb(109, 116, 125);
@@ -45,8 +44,6 @@ ul,.average-text {
     flex: 1 1 0;
 
 }
-
-
 
 #hero-text{
     font-size: 48px;
@@ -157,7 +154,8 @@ button {
 
 .title {
     font-weight: bolder;
-    font-size: 32px;
+    font-size: 36px;
+    color: #1F2937;
     justify-self: center;
     margin-top: 50px;
 }
