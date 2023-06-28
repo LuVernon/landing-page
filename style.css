@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: Roboto;
+}
+
+.top {
+    background-color: #1F2937;
+    color: white;
+    display: flex;
+}
+
+#hero-text {
+    font-size: 24px;
+    color: #f9faf8;
+}
